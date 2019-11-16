@@ -1,4 +1,6 @@
 R5T.Philippi - A types library for the FileFormat enumeration.
 
+Related to R5T.Cherusci.
+
 Goals
 
