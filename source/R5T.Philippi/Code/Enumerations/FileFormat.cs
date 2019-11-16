@@ -8,8 +8,13 @@ namespace R5T.Philippi
         Unknown = 0,
 
         // Image-related.
-        BMP,
-        JPG, // Also includes JPEG.
-        PNG,
+        Bitmap = 1,
+        Jpg = 2, // Also includes JPEG.
+        Png = 3,
+
+        Binary = 100,
+        Data = 200,
+        Temporary = 300,
+        Text = 400,
     }
 }
